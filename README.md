@@ -1,6 +1,6 @@
 #AnnahNokutheza `README.md`
 
-<img src="img.jpg" alt=">
+<img src="img.jpg.jpg" alt=">
 
 Hello there! My name is Annah Nokutheza Mwanza, I'm a Frontend Developer. I'm thrilled to have you visit my GitHub profile. I specialize in JavaScript, HTML & CSS, I've worked on a variety of projects from ALX-Africa and my own Projects. I'm always looking to learn and grow as a developer, follow me.
 
