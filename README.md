@@ -1,6 +1,6 @@
 AnnahNokutheza `README.md`
 
-<img src="img.jpg" alt="">
+<img src="img.png" alt="">
 
 I am highly skilled and motivated Web Developer specializing in Frontend with a passion for 
 crafting visually appealing, clean and user-friendly web experiences. I have over 5 years’ 
